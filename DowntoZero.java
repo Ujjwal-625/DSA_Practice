@@ -59,6 +59,8 @@ class Result {
 
 } 
 
+
+
 public class DowntoZero {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
